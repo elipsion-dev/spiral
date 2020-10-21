@@ -1,5 +1,5 @@
 # spiral
-Spiral Challenge - draw a spiral in the web browser
+Spiral Challenge - draw a spiral in the web browser without using canvas.
 
 We were challenged to write a program which could draw a spiral in the web browser. I did not have access to the internet to look anything up. Once I got the math right and worked out drawing one spiral I took the project further to see if I could draw double and triple and random # spirals. 
 
